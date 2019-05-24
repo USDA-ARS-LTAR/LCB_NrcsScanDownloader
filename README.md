@@ -4,7 +4,7 @@ Shell scripts for downloading data from the NRCS SCAN database
 
 # Attribution
 
-Code was provided by Michael Cosh from the Lower Chesapeake Bay, a member of LTAR (https://ltar.ars.usda.gov/sites/lcb/)[https://ltar.ars.usda.gov/sites/lcb/]
+Code was provided by Michael Cosh from the Lower Chesapeake Bay, a member of LTAR https://ltar.ars.usda.gov/sites/lcb/
 
 # License
 
